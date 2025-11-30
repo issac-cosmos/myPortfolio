@@ -1,4 +1,4 @@
-# 안녕하세요. 신입 개발자 포트폴리오
+# 안녕하세요. 신입 개발자 경수혁 포트폴리오입니다.
 
 Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포까지** 경험하고 있습니다.  
 
@@ -6,48 +6,55 @@ Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포
 
 ## 📌 Skills
 
-### Frontend
-- Vue.js
-
 ### Backend
 - Maria DB, Java, Spring boot, JWT/Auth  
 - Redis, Kafka, Spring Data JPA
 - WebSocket, Stomp, SSE
-- AWS EC2, S3, CloudFront, RDS, ECS, Docker, kubernetes  
 
 ### DevOps / 기타
 - GitHub Actions CI/CD  
 - S3 이미지 리사이징/배포 파이프라인 구축
+- AWS EC2, S3, CloudFront, RDS, ECS, Docker, kubernetes  
 
 ---
 
 ## 🧩 Projects
 
 ### 1. TicTakTalk - 부트캠프 전용 익명 커뮤니티
-**React + NestJS + AWS ECS**  
-**실제 운영되는 서비스의 일부 기능 구현 경험**
+**JPA + Redis + kubernetes + AWS**  
+**커뮤니티 채팅, 알림, 랭킹시스템 구현**
 
-- 주문/재고/상품 데이터 통합 조회 및 자동화 규칙 엔진 개발
-- Bedrock + LangGraph 기반 AI Operator로 자연어 분석 기능 구현
-- Redis 기반 상태관리, 비동기 Job Queue 구축
-- AWS ECS Fargate, S3, Lambda, CloudWatch 활용해 서비스 운영
+- 댓글, 대댓글 구현
+- Redis pub/sub 기반 채팅, 알림 구현
+- jwt 로그인, oauth 로그인 구현
+- 오토스케일링 노드 관리
 
-[프로젝트 상세 보기 →](projects/wakeup/README.md)
-
----
-
-### 2. 이미지 리사이징 파이프라인 (Side Project)
-**C#, AWS S3, Lambda, CloudFront**
-
-- 외부 URL 이미지 자동 다운로드 → 리사이징 → CDN 업로드 전체 자동화
-- 2만 개 이상 이미지 처리 기준 40% 비용 절감
-- 썸네일 규칙, 확장자 처리, CORS 대응까지 포함
-
-[프로젝트 상세 보기 →](projects/image-pipeline/README.md)
+[프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-3rd-4dollarExit-TikTakTalk-FE)
 
 ---
 
-### 3. 개인 블로그 플랫폼
+### 2. IoT를 활용한 실버세대 건강데이터 앱 + 커뮤니티 (Main Project)
+**Spring Boot, kafka, GitHub Action, kubernetes, AWS**
+
+- MSA아키텍쳐 구현으로 개인 개발 능률 상승
+- 삼성 헬스케어 API를 활용한 갤럭시 워치 데이터 가공
+- Spring Boot·JWT 기반 인증, Vue.js UI, MySQL을 활용해 웹앱 구현
+- Kafka 기반 메시지 브로커와 STOMP 웹소켓을 연동해 실시간 채팅 기능을 구현
+    (개인, 단체 채팅방 생성, 읽음처리 등)
+- GitHub Pull Request 룰셋을 구성해 코드 리뷰, 병합 규칙, 승인 프로세스를 표준화하여 협업 품질을 향상.
+
+맡은 역활 : 팀장 - github관리(브런치관리, 룰셋 정의), DB 설계, kafka/WebSocket을 기반으로 채팅 구현,
+                MSA아키텍쳐 구현, 실버세대를 위한 IoT 웹서비스 아이디어 주도
+
+[1. 메인 프로젝트 우승 인터뷰 링크](https://blog.naver.com/swcamp-hanwha/223926004605)
+
+[2. 프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE)
+
+[3. 프로젝트 발표 유튜브 영상](https://www.youtube.com/watch?v=HtG55mc-k4I)
+
+---
+
+### 3. 카카오톡 클론코딩 - 개인 프로젝트
 **Next.js, Prisma, PostgreSQL**
 
 - 블로그 CRUD + Markdown 기반 에디터 구현  
@@ -59,8 +66,8 @@ Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포
 ---
 
 ## 📄 More
-- 이력서(Resume): [바로가기](resume.pdf)
-- 기술 정리: [skills.md](skills.md)
-- 이메일: your-email@domain.com
+<!-- - 이력서(Resume): [바로가기](resume.pdf)/ -->
+- 블로그: [https://velog.io/@rudec/posts](https://velog.io/@rudec/posts)
+- 이메일: rudtngur@gmail.com
 
 감사합니다.
