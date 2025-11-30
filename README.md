@@ -24,10 +24,13 @@ Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포
 **JPA + Redis + kubernetes + AWS**  
 **커뮤니티 채팅, 알림, 랭킹시스템 구현**
 
-- 댓글, 대댓글 구현
+- 모놀리식 아키텍처 구현
+- 댓글, 대댓글, 좋아요 구현
 - Redis pub/sub 기반 채팅, 알림 구현
 - jwt 로그인, oauth 로그인 구현
 - 오토스케일링 노드 관리
+
+맡은 역활 : jwt/oauth 로그인 구현, User 파트, 외부 API 활용 
 
 [프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-3rd-4dollarExit-TikTakTalk-FE)
 
