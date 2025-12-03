@@ -11,6 +11,8 @@
 ---
 
 ## 📌 Skills
+### frontend
+- Vue.js
 
 ### Backend
 - Maria DB, Java, Spring boot, JWT/Auth  
