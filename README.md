@@ -1,6 +1,12 @@
 # 안녕하세요. 신입 개발자 경수혁 포트폴리오입니다.
 
-Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포까지** 경험하고 있습니다.  
+한화시스템 SW 캠프에서는 Java, Spring Boot, AWS, Kubernetes 등의 기술을 활용한 프로젝트 경험이 있습니다. 팀원들과 협력하여 요구사항을 분석하고,
+개발부터 배포까지 전 과정을 경험하였습니다. 
+이를 통해 개발자의 역량을 키워나감과 동시에 최종프로젝트 1위로 수료했습니다.
+
+
+프로젝트를 경험하며 늘 도전하는 것을 즐기고, 문제해결능력과 협업 능력을 갖췄습니다. 새로운 기술에 대한 열정과 끊임없는 학습의식으로 항상 성장하고자 하
+는 자세를 바탕으로 조직의 발전에 기여하고 싶습니다.
 
 ---
 
@@ -30,7 +36,7 @@ Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포
 - jwt 로그인, oauth 로그인 구현
 - 오토스케일링 노드 관리
 
-맡은 역활 : jwt/oauth 로그인 구현, User 파트, 외부 API 활용 
+맡은 역활 : jwt/oauth 로그인 구현, User CRUD, 외부 API 활용(cool SMS), custom annotation(forbbiden word)
 
 [프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-3rd-4dollarExit-TikTakTalk-FE)
 
@@ -46,7 +52,7 @@ Spring Boot · AWS 기반으로 **웹 서비스 아키텍처 설계부터 배포
     (개인, 단체 채팅방 생성, 읽음처리 등)
 - GitHub Pull Request 룰셋을 구성해 코드 리뷰, 병합 규칙, 승인 프로세스를 표준화하여 협업 품질을 향상.
 
-맡은 역활 : 팀장 - github관리(브런치관리, 룰셋 정의), DB 설계, kafka/WebSocket을 기반으로 채팅 구현,
+맡은 역활 : 팀장 - github관리(브런치관리, 룰셋 정의), DB 설계(ERD Cloud), kafka/WebSocket을 기반으로 채팅 구현,
                 MSA아키텍쳐 구현, 실버세대를 위한 IoT 웹서비스 아이디어 주도
 
 [1. 메인 프로젝트 우승 인터뷰 링크](https://blog.naver.com/swcamp-hanwha/223926004605)
