@@ -55,13 +55,10 @@
 - GitHub Pull Request 룰셋을 구성해 코드 리뷰, 병합 규칙, 승인 프로세스를 표준화하여 협업 품질을 향상.
 
 맡은 역활 : 팀장 - github관리(브런치관리, 룰셋 정의), DB 설계(ERD Cloud), kafka/WebSocket을 기반으로 채팅 구현,
-                MSA아키텍쳐 구현, 실버세대를 위한 IoT 웹서비스 아이디어 주도
+                MSA아키텍쳐 구현
+[프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE)
 
-[1. 메인 프로젝트 우승 인터뷰 링크](https://blog.naver.com/swcamp-hanwha/223926004605)
-
-[2. 프로젝트 Github 링크](https://github.com/beyond-sw-camp/be11-fin-3team-SilverPotion-BE)
-
-[3. 프로젝트 발표 유튜브 영상](https://www.youtube.com/watch?v=HtG55mc-k4I)
+[프로젝트 발표 유튜브 영상](https://www.youtube.com/watch?v=HtG55mc-k4I)
 
 ---
 
